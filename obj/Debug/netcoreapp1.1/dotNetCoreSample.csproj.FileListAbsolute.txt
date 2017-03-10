@@ -1,0 +1,8 @@
+c:\git\dotNetCoreSample\bin\Debug\netcoreapp1.1\dotNetCoreSample.deps.json
+c:\git\dotNetCoreSample\bin\Debug\netcoreapp1.1\dotNetCoreSample.runtimeconfig.json
+c:\git\dotNetCoreSample\bin\Debug\netcoreapp1.1\dotNetCoreSample.runtimeconfig.dev.json
+c:\git\dotNetCoreSample\bin\Debug\netcoreapp1.1\dotNetCoreSample.dll
+c:\git\dotNetCoreSample\bin\Debug\netcoreapp1.1\dotNetCoreSample.pdb
+c:\git\dotNetCoreSample\obj\Debug\netcoreapp1.1\dotNetCoreSample.AssemblyInfo.cs
+c:\git\dotNetCoreSample\obj\Debug\netcoreapp1.1\dotNetCoreSample.dll
+c:\git\dotNetCoreSample\obj\Debug\netcoreapp1.1\dotNetCoreSample.pdb
