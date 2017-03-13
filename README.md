@@ -1,0 +1,2 @@
+# DotNetCore
+Sample DotNetCore project
